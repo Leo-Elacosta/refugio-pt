@@ -1,11 +1,12 @@
 export interface Property {
     id: string;
     title: string;
+    description: string;
+    price_per_day: number;
     location: string;
     image_url: string;
-    price_per_day: number;
-    accepts_pets: boolean;
-    has_parking: boolean;
+    owner_id?: string;
+    created_at: string;
 }
 
 export interface Booking {
