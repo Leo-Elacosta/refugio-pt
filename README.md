@@ -21,9 +21,3 @@ A modern property booking system (Airbnb-style) built with **Next.js** and **Sup
 * **Styling**: [Tailwind CSS](https://tailwindcss.com/).
 * **Icons**: [Lucide React](https://lucide.dev/).
 * **Backend & Database**: [Supabase](https://supabase.com/) (PostgreSQL, Auth, RLS).
-
-## 🚀 How to run locally
-
-1. Clone this repository:
-```bash
-git clone [https://github.com/YOUR_USERNAME/refugio-pt.git](https://github.com/YOUR_USERNAME/refugio-pt.git)
