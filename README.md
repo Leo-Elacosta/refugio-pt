@@ -21,3 +21,6 @@ A modern property booking system (Airbnb-style) built with **Next.js** and **Sup
 * **Styling**: [Tailwind CSS](https://tailwindcss.com/).
 * **Icons**: [Lucide React](https://lucide.dev/).
 * **Backend & Database**: [Supabase](https://supabase.com/) (PostgreSQL, Auth, RLS).
+Example:
+![regutiopt_example](https://github.com/user-attachments/assets/f6ed5c95-7b7d-4e53-9297-38159e16bdcf)
+
